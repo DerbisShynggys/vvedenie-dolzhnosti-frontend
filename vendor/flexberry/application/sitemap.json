@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Vvedenie_dolzhnosti",
+  "applicationTitle": "Vvedenie_dolzhnosti",
+  "items": [
+    {
+      "link": null,
+      "menuName": "vvedenie-dolzhnosti",
+      "caption": "Vvedenie_dolzhnosti",
+      "title": "Vvedenie_dolzhnosti",
+      "children": [
+        {
+          "link": "i-i-s-vvedenie-dolzhnosti-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
